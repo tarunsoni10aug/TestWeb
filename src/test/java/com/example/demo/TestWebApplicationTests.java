@@ -8,7 +8,7 @@ class TestWebApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println();
+		System.out.println("hello");
 	}
 
 }
